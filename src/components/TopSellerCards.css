@@ -1,0 +1,29 @@
+.top-card {
+  width: 474px;
+  height: 280px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.top-card img {
+  width: 180px;
+  height: 250px;
+  border-radius: 5px;
+
+}
+.information-card{
+    width: 60%;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.price-product{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

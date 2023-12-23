@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.left-head {
+  width: 40%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 100px;
+}
+.right-head {
+  width: 40%;
+  height: 70vh;
+  background-image: url("src/assets/Animation.png");
+  background-position: center;
+}

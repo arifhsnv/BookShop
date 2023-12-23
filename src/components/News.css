@@ -1,0 +1,30 @@
+.book-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.first-book{
+    width: 610px;
+height: 190px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
+.information-book{
+    width: 60%;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.line{
+    width: 50px;
+height: 2px;
+background: #FFCE1A;
+margin-left: 20px;
+}
+.first-book img{
+    width: 123px;
+    height: 156px;
+}
